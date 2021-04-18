@@ -1,5 +1,5 @@
 # Covid19 Data Analysis Notebook
-Jupyter Notebook for Data Analysis of Covid19 dataset using DataFrames.
+Jupyter Notebook for Data Analysis of Covid19 dataset using Pandas (DataFrames), Numpy and Matplotlib.
 
 ### Tasks covered in this Notebook are:
 
